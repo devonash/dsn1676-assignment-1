@@ -24,3 +24,7 @@ html {
 .logo-star {
     display: inline-block;
 }
+
+.center {
+    text-align: center;
+}
