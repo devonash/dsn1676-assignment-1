@@ -16,3 +16,11 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+.title {
+    display: inline-block;
+}
+
+.logo-star {
+    display: inline-block;
+}
