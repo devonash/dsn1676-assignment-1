@@ -32,6 +32,10 @@ html {
     text-align: center;
 }
 
+.masthead {
+    background: transparent url("../img/masthead-bg.png") repeat left center;
+}
+
 .background-light {
     background-color: #e7e5d9;
 }
