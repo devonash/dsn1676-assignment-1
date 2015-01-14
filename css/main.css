@@ -17,15 +17,21 @@ html {
   box-sizing: inherit;
 }
 
+img {
+    display: block;
+    width: 100%;
+}
+
 .title {
     display: inline-block;
+    background-color: #e7e5d9;
+    vertical-align: middle;
 }
 
 .logo-star {
     display: inline-block;
 	width: 30px;
-    height: 30px;
-    margin: 1em;
+    vertical-align: middle;
 }
 
 .center {
@@ -34,6 +40,7 @@ html {
 
 .masthead {
     background: transparent url("../img/masthead-bg.png") repeat left center;
+    text-align: center;
 }
 
 .background-light {
@@ -46,4 +53,10 @@ html {
 
 .wtext {
     color: white;
+}
+
+.border {
+    border-image: url("../img/border.png") 36 36 36 36 stretch stretch;
+    border-width: 36px 36px 36px 36px;
+    
 }
