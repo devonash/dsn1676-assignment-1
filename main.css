@@ -28,3 +28,15 @@ html {
 .center {
     text-align: center;
 }
+
+.background-light {
+    background-color: #e7e5d9;
+}
+
+.background-dark {
+    background-color: #87714f;
+}
+
+.wtext {
+    color: white;
+}
